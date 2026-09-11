@@ -1,4 +1,4 @@
-{ useState, ... } from "react"; // @ts-nocheck
+// @ts-nocheck
 import React, { useState, useEffect, useMemo } from "react";
 import {
   Recycle,
